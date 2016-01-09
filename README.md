@@ -2,7 +2,7 @@
 
 Drone.bo MissionTasker forked from diydrones repo
 
-Make this one for specifics tasks and communication for URUS_AP system.
+Make this one for specifics tasks and communication for URUS_AP system. All changes made by drone.bo team developers will be under LICENSE(GPLv3) and pulled to diydrones/ardupilot repo.
 
 #License (GPLv3)
 
